@@ -3,7 +3,7 @@
 #include "camera.h"
 #include "lapse.h"
 
-const char *ssid = "...";
+const char *ssid = "my_ssid";
 const char *password = "...";
 
 void startCameraServer();
